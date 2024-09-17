@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Senior-Software-Engineer-profile/static/css/main.2dfde694.css",
+    "main.js": "/Senior-Software-Engineer-profile/static/js/main.789467d8.js",
+    "static/js/453.0e8b22ac.chunk.js": "/Senior-Software-Engineer-profile/static/js/453.0e8b22ac.chunk.js",
+    "index.html": "/Senior-Software-Engineer-profile/index.html",
+    "main.2dfde694.css.map": "/Senior-Software-Engineer-profile/static/css/main.2dfde694.css.map",
+    "main.789467d8.js.map": "/Senior-Software-Engineer-profile/static/js/main.789467d8.js.map",
+    "453.0e8b22ac.chunk.js.map": "/Senior-Software-Engineer-profile/static/js/453.0e8b22ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dfde694.css",
+    "static/js/main.789467d8.js"
+  ]
+}
