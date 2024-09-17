@@ -1,4 +1,26 @@
-import logo from './logo.svg';
+import React from "react";
+import Header from "./components/Header";
+import About from "./components/About";
+import Experience from "./components/Experience";
+import Skills from "./components/Skills";
+import DownloadResume from "./components/DownloadResume";
+import "./App.css";
+
+function App() {
+  return (
+    <div className="App">
+      <Header />
+      <About />
+      <Experience />
+      <Skills />
+      <DownloadResume />
+    </div>
+  );
+}
+
+export default App;
+
+/**import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -23,3 +45,4 @@ function App() {
 }
 
 export default App;
+*/
